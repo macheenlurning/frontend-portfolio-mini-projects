@@ -1,11 +1,12 @@
-# Front-end Skills Portfolio
-
-### 50 Projects in 50 Days or Less, by Ryan Hutchinson
-
-
+# Front-end Portfolio
+&nbsp;
+### 50 Projects in 50 Days or Less
+### by Ryan Hutchinson
+&nbsp  
+&nbsp  
  > *Consistency transforms average into excellent.*
-
-
+&nbsp  
+&nbsp  
 
 Front-end skills are necessary for any programmer.
 
