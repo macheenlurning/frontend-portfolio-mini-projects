@@ -1,17 +1,21 @@
 # Front-end Skills Portfolio
 
-### Ryan Hutchinson
+## Ryan Hutchinson
 
 
-> *Consistency transforms average into excellent.*
+### > *Consistency transforms average into excellent.*
 
-In my quest to become a software engineer, I've decided that having front-end skills, coupled with my knowledge of Python and Javascript, will expand my collection of problem solving tools.
+In my quest to become a software engineer, I've decided that having front-end experience, coupled with my knowledge of Python and Javascript, will expand my collection of problem solving tools.
 
-In a constantly moving society, I believe that front-end tech skills are necessary for any programmer.
+Front-end skills are necessary for any programmer.
 
-**Why?**
 
-**_Attention...that's why!_**
+
+### **Why?**
+
+### **_Attention...that's why!_**
+
+
 
 Grabbing (and holding) the attention of a client, user, or audience is the single most important skill any business can employ. Our attention is pulled in so many directions, as our minds are led around by *"the next best visual."* 
 
@@ -32,7 +36,8 @@ Please do not hesitate to reach out to me at my contact information below. I'm c
 - Contact -
 
 **Ryan Hutchinson**
+
 **E:** me@ryanhutchinson.io
-*https://www.linkedin.com/in/macheenlurning/*
-*https://twitter.com/macheenlurning*
-*https://macheenlurning.medium.com/*
+[Linkedin](https://www.linkedin.com/in/macheenlurning/ "My Linkedin")
+[Twitter](https://twitter.com/macheenlurning "My Twitter")
+[Medium](https://macheenlurning.medium.com/ "My Medium")
